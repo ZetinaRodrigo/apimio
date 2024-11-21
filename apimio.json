@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "nombre": "FIFA 2023",
+      "categoria": "Deportes",
+      "descripcion": "Juego del deporte mas bonito del mundo",
+      "fecha": "30 de septiembre de 2023"
+    },
+    {
+      "id": 3,
+      "nombre": "Fortnite",
+      "categoria": "Shooter",
+      "descripcion": "Juego multijugador de disparos y construccion",
+      "fecha": " 28/07/2017"
+    },
+    {
+      "id": 4,
+      "nombre": "Rocket League",
+      "categoria": "Entrenimiento",
+      "descripcion": "Juego con una combinacion de coches y futbol",
+      "fecha": "7 de julio de 2015"
+    }
+  ]
+  
